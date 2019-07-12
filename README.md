@@ -6,9 +6,9 @@ We provide PyTorch implementations for [Perception Evaluation – A new solar im
 - numpy 
 - CUDA 8.0 
 ## Test Data
-'''
-cd /PeMeasureData/
-'''
+  ```
+  cd /PeMeasureData/
+  ```
 The image H_000000.fits is real observation data and ref_x1.fits is reference image from Speckle reconstruction.
 
 ## Test
